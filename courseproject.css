@@ -1,0 +1,35 @@
+
+img {
+    width: 400px;
+    height: 400px;
+}
+
+.nav-link {
+            margin: 0.50rem;
+            padding: 0.25rem 0.5rem; 
+            font-size: 0.7rem; 
+}
+
+
+
+
+@media (min-width: 992px) {
+    
+    .margin {
+        margin-left: 300px;
+        margin-top: 300px;
+    }
+    
+
+    .pt-lg-50 {
+        padding-top: 50px;
+    }
+
+    .pe-lg-50 {
+        padding-right: 50px;
+    }
+
+}
+
+
+
